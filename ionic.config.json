@@ -1,0 +1,7 @@
+{
+  "name": "RenTier2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
